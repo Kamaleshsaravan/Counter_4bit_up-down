@@ -178,3 +178,5 @@ It contains statements that map logical library names to their physical director
 ![Screenshot 2024-10-04 195937](https://github.com/user-attachments/assets/a9a54d87-bf57-40ef-9795-7585eafdabeb)
 ## Fig 11: Simulation Waveform 
 
+## Result:
+Thus we write a verilog code for 4bit up/down counter and verify the functionality using Test bench is successfully implemented.
